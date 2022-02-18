@@ -3,5 +3,8 @@
 *.json
 *.txt
 *.xlsx
+*.html
+*.png
+*.pdf
 *~
 __pycache__

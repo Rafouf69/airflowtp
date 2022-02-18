@@ -25,7 +25,6 @@ homework_dag = DAG(
     dag_id='homework_dag',
     default_args=default_args_dict,
     catchup=False,
-    
 )
 
 #function to get number of character
